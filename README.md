@@ -1,5 +1,7 @@
 # React Redux-Saga Örneği
 
+[Demo](https://react-reduxsaga.netlify.app/)
+
 Bu proje, Redux-Saga'nın temel kavramlarını ve kullanımını gösteren basit bir örnektir. Kullanıcı verilerini ve gönderilerini yönetmek için Redux-Saga middleware'ini kullanan modern bir React uygulamasıdır.
 
 ## Redux-Saga Nedir?
